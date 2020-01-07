@@ -1,5 +1,8 @@
 # My-Unix-Shell
 Recreated the Unix shell using hashmaps and my tokenizer.
+Authors: 
+Allen West (Me)
+Justin Delvecchio (Partner)
 
 MOST WORK DONE IN NUSH.C
 This is a Unix shell like "bash" called "nush".
